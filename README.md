@@ -28,4 +28,4 @@ You may contribute to `sdisk` by building, and making pull requests or opening a
 
 ## License
 
-`s-sh` is an open source software licensed under GNU General Public License version 3.0 (GPLv3.0)
+`sdisk` is an open source software licensed under GNU General Public License version 3.0 (GPLv3.0)
